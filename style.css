@@ -1,0 +1,38 @@
+body
+{
+    background-size: cover;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.heading
+{
+    box-shadow: 5px 5px 5px palevioletred;
+    padding: 30px;
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+    background-color: pink;
+}
+
+#song
+{
+    box-shadow: 5px 5px 5px palevioletred;
+    font-size: 20px;
+    padding: 20px;
+    margin: 0px;
+    background-color: rgb(245, 128, 167);
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px palevioletred;
+    padding: 20px;
+    margin: 1px;
+}
